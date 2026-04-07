@@ -8,11 +8,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
+  - Analytics
+  - Big Data
   - Data Architecture
   - Data Lake
   - Data Warehouse
-  - Analytics
-  - Big Data
 url: https://raw.githubusercontent.com/api-evangelist/lakehouse-architecture/refs/heads/main/apis.yml
 created: '2025-01-01'
 modified: '2026-03-16'
@@ -25,8 +25,8 @@ apis:
       data platform paradigm.
     humanURL: https://www.databricks.com/glossary/data-lakehouse
     tags:
-      - Data Architecture
       - Analytics
+      - Data Architecture
     properties:
       - type: Documentation
         url: https://www.databricks.com/glossary/data-lakehouse

@@ -5,18 +5,18 @@ Lakehouse Architecture is a data architecture paradigm that combines the best fe
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
 ## Tags:
 
- - Data Architecture, Data Lake, Data Warehouse, Analytics, Big Data
+ - Analytics, Big Data, Data Architecture, Data Lake, Data Warehouse
 
 ## Timestamps
 
-- **Created:** 2025-01-01 
-- **Modified:** 2026-03-16 
+- **Created:** 2025-01-01
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -25,10 +25,9 @@ Resources and reference implementations for the Lakehouse Architecture data plat
 
 **Human URL:** [https://www.databricks.com/glossary/data-lakehouse](https://www.databricks.com/glossary/data-lakehouse)
 
-
 #### Tags:
 
- - Data Architecture, Analytics
+ - Analytics, Data Architecture
 
 #### Properties
 

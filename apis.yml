@@ -33,6 +33,10 @@ apis:
 common:
   - type: Website
     url: https://www.databricks.com/glossary/data-lakehouse
+  - type: Integrations
+    url: https://www.databricks.com/partners
+integrations:
+  - name: Partner Spotlight Featured partner announcements
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

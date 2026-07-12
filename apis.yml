@@ -31,6 +31,10 @@ apis:
       - type: Documentation
         url: https://www.databricks.com/glossary/data-lakehouse
 common:
+  - type: VulnerabilityDisclosure
+    url: security/lakehouse-architecture-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/lakehouse-architecture-domain-security.yml
   - type: Website
     url: https://www.databricks.com/glossary/data-lakehouse
   - type: Integrations

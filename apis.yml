@@ -1,5 +1,6 @@
 aid: lakehouse-architecture
 name: Lakehouse Architecture
+kind: topic
 description: >-
   Lakehouse Architecture is a data architecture paradigm that combines the best
   features of data lakes and data warehouses, providing ACID transactions, schema

@@ -55,6 +55,12 @@ apis:
       - type: Documentation
         url: https://www.databricks.com/glossary/data-lakehouse
 common:
+  - type: Plans
+    url: plans/lakehouse-architecture-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/lakehouse-architecture-rate-limits.yml
+  - type: FinOps
+    url: finops/lakehouse-architecture-finops.yml
   - type: VulnerabilityDisclosure
     url: security/lakehouse-architecture-vulnerability-disclosure.yml
   - type: DomainSecurity
